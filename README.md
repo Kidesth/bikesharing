@@ -1,12 +1,13 @@
 # NYC Citibike Analysis
 
-### Citybike Analysis
+
 ## OVERVIEW
 The purpose of this analysis is to prepare that gives potential investors a look into the highly successful NYC analysis Bike sharing program in Des Moines. 
 We have Prepared a Visualization that shows the number of bike trips for all riders and genders for each hour and day of the week, shows the Length of time that bikes are checked out for all riders and genders, shows the number of bike trips and we can see which bikes need maintenance by determining which bikes have the highest number of rides when we prepare this analysis going different steps 1, Import data into Tableau 2, create and style worksheets stories and Dashboard in Tableau. using Tableau worksheets to display data professional way and the data shows accurately on the dashboard.   
 
 ### Resources
-Software - Tableau , Python , Jupiter notebook, Pands library
+Software - Tableau , Python , Jupiter notebook, Pands library 
+
 Citi Bike System Data page/Citi Bike trip history data 201908 citibike tripdata.csv 
 
  ## Results
@@ -15,7 +16,7 @@ Citi Bike System Data page/Citi Bike trip history data 201908 citibike tripdata.
 
 ### Results Of the NYC Citibikes Analysis
 
-For NYC analysis we see on the geographical area some trips were outside the main city followed by the river, comparing Visualizations for the Top starting and Ending locations, we can see that the most active starting and ending locations this is help full to see there might be shortage or excess bikes on the station when we looking checkout times for users and checkout by genders the majority riders are less than an hour and the usage pattern regardless of gender the total number of male is considerably high.
+For NYC analysis we have seen on the geographical area some trips were outside the main city followed by the river, comparing Visualizations for the Top starting and Ending locations, we can see that the most active starting and ending locations this is help full to see there might be shortage or excess bikes on the station when we looking checkout times for users and checkout by genders the majority riders are less than an hour and the usage pattern regardless of gender the total number of male is considerably high.
 
 #### 1, Checkout Times for Users
 
