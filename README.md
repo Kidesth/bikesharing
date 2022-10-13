@@ -1,1 +1,6 @@
+![checkout Times for Users](https://user-images.githubusercontent.com/107454933/195525138-387ea066-1c2b-4a4b-b8ba-b0e701d56cc3.png)
+![Checkout Times by Gender](https://user-images.githubusercontent.com/107454933/195525174-f804d5ee-df92-42a8-b953-3928cfc38f76.png)
+![Trips by weekday for each hour](https://user-images.githubusercontent.com/107454933/195525306-f25562b2-efd5-4ac8-98e9-8753c41b882a.png)
+![Trips by Gender (weekday per hour)](https://user-images.githubusercontent.com/107454933/195525343-f100ef8b-4f96-4b74-bcca-0b66dcda4105.png)
+![UserTrips by Gender by weekday](https://user-images.githubusercontent.com/107454933/195525777-45fa9b52-3c11-4e19-b316-59852c9b0030.png)
 # bikesharing
