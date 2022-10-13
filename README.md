@@ -1,3 +1,5 @@
+![Bike Due for Repairs](https://user-images.githubusercontent.com/107454933/195713008-dcf98312-7511-4e4c-b874-9b930ba5cd12.png)
+![Bike utilazation](https://user-images.githubusercontent.com/107454933/195713020-b7fddda9-426b-4965-9b3e-7901bda4aff4.png)
 ![NYC citibike Dashboard ](https://user-images.githubusercontent.com/107454933/195709442-fe4c0bbe-f1c0-4f8f-9fbc-efe24da41e46.png)
 ![NYC Story ](https://user-images.githubusercontent.com/107454933/195709468-e08c5bb3-9e6f-403f-807e-b11c5558a119.png)
 ![checkout Times for Users](https://user-images.githubusercontent.com/107454933/195525138-387ea066-1c2b-4a4b-b8ba-b0e701d56cc3.png)
